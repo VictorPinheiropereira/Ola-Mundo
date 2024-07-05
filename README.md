@@ -2,4 +2,5 @@
  primeiro repositorio 
 
 repositório criado durante uma aula 
-adicionei essa linha durnate uma viagem.
+
+ adicionei essa linha durnate uma viagem.
